@@ -1,0 +1,16 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "Plz Analytics"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Expirience"
+      href: background.html
+    - text: "Recent Work"
+      href: projects.html
+    - text: "About Us"
+      href: personal.html
+output:
+  html_document:
+    theme: darkly
