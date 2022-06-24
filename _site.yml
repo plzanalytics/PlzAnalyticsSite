@@ -13,4 +13,4 @@ navbar:
       href: personal.html
 output:
   html_document:
-    theme: darkly
+    theme: flatly
