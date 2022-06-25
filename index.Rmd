@@ -12,14 +12,20 @@ title: "Home"
 
 Data has the power to make informed decisions. Companies have the data resources to make powerful
 decisions but may struggle finding application to put data to use. We are here to help companies
-realize the full potential of data driven choices. 
+realize the full potential of data driven choices.  Add more wording here
 
 ****
 <center>
-![](BI.jpg){width=75%}
+![](img/BI.jpg){width=75%}
+
 ****
 
 ****
 <center>
-![](Plz.jpg){width=10%}
+![](img/Plz.jpg){width=10%}
+
 ****
+
+<center>
+
+

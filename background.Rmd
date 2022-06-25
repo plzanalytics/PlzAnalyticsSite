@@ -1,30 +1,76 @@
 ---
-title: "background"
-author: "PlzAnalytics"
-date: "6/11/2022"
-output: html_document
+title: "Experience"
 ---
+  
+<center>
+#
+# We have a wide range of technical and consulting.
+# Click to find out more about each company.
+#
+</center>
+  
+****
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+<left>
+## Rock and Rose Landscapes
+<img style="float: right;" src="img/RR.jpg" alt="" width="200" height="200">
 
-## R Markdown
+#### **Financial Consultant** *May 2022 - Present*
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+###### -  **San Francisco, CA**
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+* Company generates 10+ million in revenue annually
+* Help to understand data through visualizations and predictive models
+* Communicate data effectively from front office to grounds crew
+* Increase efficiency leading to profit gains
 
-```{r cars}
-summary(cars)
-```
+[Learn More](https://www.rockandrose.com/home.html)
 
-## Including Plots
+</left>
+****
+## Curri
+<img style="float: right;" src="img/curri.jpg" alt="" width="200" height="200">
 
-You can also embed plots, for example:
+#### **Data Engineer** *specify date - Present*
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+###### -  **Ventura, CA**
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* what u do
+* do u what
+* do you you
+* you you you
+
+[Learn More](https://www.curri.com)
+
+</left>
+
+****
+
+## Malibu Triathlon
+<img style="float: right;" src="img/malbu.jpg" alt="" width="200" height="200">
+
+#### **Marketing and Activations Manager** *specify date - Present*
+
+* what u do
+* do u what
+* do you you
+* you you you
+
+[Learn More](https://malibutri.com/?gclid=EAIaIQobChMI686_gfvH-AIVVBh9Ch3XiAYdEAAYASAAEgKGUPD_BwE)
+
+
+****
+
+## ERM
+<img style="float: right;" src="img/ERM.jpg" alt="" width="200" height="200">
+
+#### **Data Scientist** *January 2020 - Present*
+
+* what u do
+* do u what
+* do you you
+* you you you
+
+[Learn More](https://www.erm.com/service/capabilities/data-analytics-visualization/)
+
+

@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Expirience"
+    - text: "Experience"
       href: background.html
     - text: "Recent Work"
       href: projects.html
