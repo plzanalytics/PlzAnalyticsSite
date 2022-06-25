@@ -12,6 +12,7 @@ title: "Experience"
 ****
 
 <left>
+
 ## Rock and Rose Landscapes
 <img style="float: right;" src="img/RR.jpg" alt="" width="200" height="200">
 
@@ -27,6 +28,9 @@ title: "Experience"
 [Learn More](https://www.rockandrose.com/home.html)
 
 </left>
+
+\
+
 ****
 ## Curri
 <img style="float: right;" src="img/curri.jpg" alt="" width="200" height="200">
@@ -40,14 +44,18 @@ title: "Experience"
 * do you you
 * you you you
 
+\
+
 [Learn More](https://www.curri.com)
+
+\
 
 </left>
 
 ****
 
 ## Malibu Triathlon
-<img style="float: right;" src="img/malbu.jpg" alt="" width="200" height="200">
+<img style="float: right;" src="img/malibu.jpg" alt="" width="200" height="200">
 
 #### **Marketing and Activations Manager** *specify date - Present*
 
@@ -56,8 +64,11 @@ title: "Experience"
 * do you you
 * you you you
 
+\
+
 [Learn More](https://malibutri.com/?gclid=EAIaIQobChMI686_gfvH-AIVVBh9Ch3XiAYdEAAYASAAEgKGUPD_BwE)
 
+\
 
 ****
 
@@ -71,6 +82,22 @@ title: "Experience"
 * do you you
 * you you you
 
+\
+
+
 [Learn More](https://www.erm.com/service/capabilities/data-analytics-visualization/)
 
+\
+
+\
+
+****
+
+****
+<center>
+![](img/Plz.jpg){width=10%}
+
+****
+
+<center>
 
